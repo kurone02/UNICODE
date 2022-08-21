@@ -1,0 +1,46 @@
+accounts:
+  - name: alice
+    coins: ["20000token", "200000000stake"]
+  - name: bob
+    coins: ["10000token", "200000000stake"]
+  - name: Admin
+    coins: ["309token", "200000000stake"]
+  - name: Tester01
+    password: wow
+    coins: ["15token", "100000000stake"]
+  - name: Tester02
+    password: wow
+    coins: ["12token", "100000000stake"]
+  - name: Tester03
+    password: wow
+    coins: ["9token", "100000000stake"]
+  - name: Tester04
+    password: wow
+    coins: ["6token", "100000000stake"]
+  - name: Tester05
+    password: wow
+    coins: ["3token", "100000000stake"]
+  - name: Tester06
+    password: wow
+    coins: ["0token", "100000000stake"]
+  - name: Tester07
+    password: wow
+    coins: ["0token", "100000000stake"]
+  - name: Tester08
+    password: wow
+    coins: ["0token", "100000000stake"]
+  - name: Tester09
+    password: wow
+    coins: ["0token", "100000000stake"]
+  
+validator:
+  name: alice
+  staked: "100000000stake"
+client:
+  openapi:
+    path: "docs/static/openapi.yml"
+  vuex:
+    path: "vue/src/store"
+faucet:
+  name: bob
+  coins: ["5token", "100000stake"]
