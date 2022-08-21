@@ -1,0 +1,24 @@
+{
+    "accounts": [
+        {
+            "username": "Admin", 
+            "password": "admin",
+            "address": "cosmos1d75thj97s30rj36hhnccqjfs6q0yf435mq7l3z", 
+            "mnemonic": "paddle hill upper click once relax appear idle track rely black regular sea gloom senior bullet average sustain black fury pretty level song salon"
+        },
+        {
+            "username": "Tester01", 
+            "password": "test",
+            "address": "cosmos1qhsk0r7rum530wr99xkvpec9eff0vny9q5djeu", 
+            "mnemonic": "honey clinic explain polar staff rose warfare opera focus spike garage circle neck candy fiction weird eye august search section salad fossil include season"
+        },
+        {"username": "Tester02","password": "test", "address": "cosmos1t949cj5hh5tvs6mgtvkhyrp6ef4mxtnmr333zn", "mnemonic": "leader denial alone say grow plug cannon random unfold flock depth planet tape empower give resist digital drive exotic sun divorce drum fiscal monkey"},
+        {"username": "Tester03", "password": "test",  "address": "cosmos1dtxyj7jmfmlptlrt4p38qrxtfrl0m4yargdx3v", "mnemonic": "city plate price wrap gym ceiling pig sock crowd pilot own since lady group school cycle hand hungry birth muffin legal quarter cactus throw"},
+        {"username": "Tester04", "password": "test", "address": "cosmos1dsyerplwg4kecdaka520t9457j8h86pz6en8w7", "mnemonic": "lunch note snake off hill gasp ship night lunar twice feel enjoy front pen dutch lazy ice occur measure injury image work fashion copy"},
+        {"username": "Tester05", "password": "test", "address": "cosmos1eulggrwa2wx6lyyrvrw5gxsezfne3hlp400r04", "mnemonic": "river arrow draw thunder silent basic dad real dinosaur resemble busy few liar bubble gain hour phone key mask pact abstract mix boring joy"},
+        {"username": "Tester06", "password": "test", "address": "cosmos15lqxzd3kne0h5vuqax4vnw3j47lx90yrpyvtj2", "mnemonic": "amazing jelly coast deny list army often relief party sting quote better crucial flash sting swamp pigeon ribbon erosion okay category token bone estate"},
+        {"username": "Tester07", "password": "test", "address": "cosmos1jnjxjhnkxk4p7nhtsden5ezfhxk0prrhnwekzc", "mnemonic": "load track pony weird addict cabin nasty dirt camera describe crouch sting ritual wife access much solid noodle kitchen way deer fork excuse wreck"},
+        {"username": "Tester08", "password": "test", "address": "cosmos1plcfchjduqk4q00pa5ja7ch682ygdus9zfvjy9", "mnemonic": "squirrel oil vessel wrestle custom grace gain major vacuum benefit say scatter hair input obtain crater shell giant scissors upper trend industry flight nephew"},
+        {"username": "Tester09", "password": "test", "address": "cosmos190lxvugjhwylv954tj7rxec4cmgcgxltk22ly6", "mnemonic": "song wasp short index attract legend anchor spray plastic follow hip motor salmon absurd unfold bamboo travel diary fetch electric result toe estate car"}
+    ]
+}
